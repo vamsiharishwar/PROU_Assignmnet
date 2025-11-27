@@ -1,13 +1,13 @@
 # 📝 Employee Task Tracker (MERN Stack)
 
-This is a full-stack web application designed to manage employee assignments and task status, built using the **MERN** (MongoDB, Express, React, Node.js) technology stack.
+This is a full-stack web application designed to manage employee assignments and task status, built using the **MERN** (MongoDB, Express, React, Node.js) technology stack. It provides an administrative interface for managers to track individual and team performance.
 
 ## 🎯 Key Features
 
-* **Employee Management:** CRUD operations for employees, including a **cascading delete** (deleting an employee also deletes all their associated tasks).
-* **Task Management:** Full CRUD operations for tasks (Create, Read/Filter, Update, Delete).
-* **Task Filtering:** Filter tasks by employee, status (**Pending**, **In Progress**, **Completed**).
-* **Dashboard:** Provides real-time metrics including overall task completion rate and **per-employee performance breakdown**.
+* **Employee Management:** Full **CRUD** operations for employees, including a critical **cascading delete** (deleting an employee also deletes all their associated tasks).
+* **Task Management:** Full **CRUD** operations for tasks (Create, Read/Filter, Update, Delete).
+* **Task Filtering:** Filter tasks instantly by assigned employee and status (**Pending**, **In Progress**, **Completed**).
+* **Dashboard:** Provides real-time metrics including overall task completion rate and a **per-employee performance breakdown**.
 * **Task Detail View:** Dedicated page for viewing the full context of a single task.
 
 ---
@@ -38,8 +38,8 @@ Ensure the following tools are installed on your system:
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/vamsiharishwar/TaskManagementAPP.git](https://github.com/vamsiharishwar/TaskManagementAPP.git)
-cd TaskManagementAPP
+git clone [https://github.com/vamsiharishwar/PROU_Assignment.git](https://github.com/vamsiharishwar/PROU_Assignment.git)
+cd PROU_Assignment
 
 # 2. Install Backend Dependencies
 cd backend
