@@ -32,8 +32,8 @@ Git
 Step 1: Clone and Install Dependencies
 
 # 1. Clone the repository
-https://github.com/vamsiharishwar/PROU_Assignmnet
-cd TaskManagementAPP
+  git clone:  https://github.com/vamsiharishwar/PROU_Assignmnet
+cd PROU_Assignment
 
 # 2. Install Backend Dependencies
 cd backend
