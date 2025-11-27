@@ -32,7 +32,7 @@ Git
 Step 1: Clone and Install Dependencies
 
 # 1. Clone the repository
-git clone https://github.com/vamsiharishwar/TaskManagementAPP.git
+https://github.com/vamsiharishwar/PROU_Assignmnet
 cd TaskManagementAPP
 
 # 2. Install Backend Dependencies
